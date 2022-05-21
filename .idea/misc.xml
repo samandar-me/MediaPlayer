@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/MyAndroid/MusicPlayer/app/src/main/res/drawable/ic_cover.xml" value="0.2545" />
+        <entry key="..\:/AndroidProjects/MyAndroid/MusicPlayer/app/src/main/res/drawable/ic_end.xml" value="0.2545" />
+        <entry key="..\:/AndroidProjects/MyAndroid/MusicPlayer/app/src/main/res/drawable/ic_fast_forword.xml" value="0.2545" />
+        <entry key="..\:/AndroidProjects/MyAndroid/MusicPlayer/app/src/main/res/drawable/ic_favorite.xml" value="0.2545" />
+        <entry key="..\:/AndroidProjects/MyAndroid/MusicPlayer/app/src/main/res/drawable/ic_pause.xml" value="0.2545" />
+        <entry key="..\:/AndroidProjects/MyAndroid/MusicPlayer/app/src/main/res/drawable/ic_play.xml" value="0.2545" />
+        <entry key="..\:/AndroidProjects/MyAndroid/MusicPlayer/app/src/main/res/drawable/ic_repeat.xml" value="0.2545" />
+        <entry key="..\:/AndroidProjects/MyAndroid/MusicPlayer/app/src/main/res/drawable/ic_repeat_white.xml" value="0.2545" />
+        <entry key="..\:/AndroidProjects/MyAndroid/MusicPlayer/app/src/main/res/drawable/ic_rewind.xml" value="0.2545" />
+        <entry key="..\:/AndroidProjects/MyAndroid/MusicPlayer/app/src/main/res/drawable/ic_shuffle.xml" value="0.2545" />
+        <entry key="..\:/AndroidProjects/MyAndroid/MusicPlayer/app/src/main/res/layout/activity_main.xml" value="0.2863247863247863" />
+        <entry key="..\:/AndroidProjects/MyAndroid/MusicPlayer/app/src/main/res/layout/fragment_music_list.xml" value="0.2863247863247863" />
+        <entry key="..\:/AndroidProjects/MyAndroid/MusicPlayer/app/src/main/res/layout/fragment_play_music.xml" value="0.2863247863247863" />
+        <entry key="..\:/AndroidProjects/MyAndroid/MusicPlayer/app/src/main/res/layout/item_layout.xml" value="0.2863247863247863" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
