@@ -17,6 +17,10 @@
         <entry key="..\:/AndroidProjects/MyAndroid/MusicPlayer/app/src/main/res/layout/fragment_music_list.xml" value="0.2863247863247863" />
         <entry key="..\:/AndroidProjects/MyAndroid/MusicPlayer/app/src/main/res/layout/fragment_play_music.xml" value="0.2863247863247863" />
         <entry key="..\:/AndroidProjects/MyAndroid/MusicPlayer/app/src/main/res/layout/item_layout.xml" value="0.2863247863247863" />
+        <entry key="..\:/Users/MediaPlayer/app/src/main/res/drawable/ic_pause.xml" value="0.1795" />
+        <entry key="..\:/Users/MediaPlayer/app/src/main/res/drawable/ic_repeat.xml" value="0.1795" />
+        <entry key="..\:/Users/MediaPlayer/app/src/main/res/drawable/ic_repeat_white.xml" value="0.1795" />
+        <entry key="..\:/Users/MediaPlayer/app/src/main/res/layout/fragment_play_music.xml" value="0.2552083333333333" />
       </map>
     </option>
   </component>

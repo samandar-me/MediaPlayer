@@ -2,10 +2,12 @@ package com.example.musicplayer.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
+import androidx.navigation.findNavController
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
 import com.example.musicplayer.databinding.ItemLayoutBinding
+import com.example.musicplayer.fragment.MusicListFragmentDirections
 import com.example.musicplayer.model.Song
 
 class SongAdapter : ListAdapter<Song, SongAdapter.SongViewHolder>(DiffCallBack()) {
@@ -42,6 +44,10 @@ class SongAdapter : ListAdapter<Song, SongAdapter.SongViewHolder>(DiffCallBack()
                 songTitle.text = song.songTitle
                 songArtist.text = song.songArtist
                 tvOrder.text = "${pos.plus(1)}"
+            }
+            itemView.setOnClickListener {
+                val direction = MusicListFragmentDirections.actionMusicListFragmentToPlayMusicFragment(song)
+                it.findNavController().navigate(direction)
             }
         }
     }
